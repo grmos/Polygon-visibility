@@ -1,5 +1,10 @@
 # Polygon-visibility
 
+## Enviroment
+- VIsual Studio2019
+- cmake 3.15.4
+- [VVR Framework](https://github.com/vvrgroup/VVR-Framework)
+  
 ## License
 
 The framework used in this project is licensed under the terms of the [MIT License](./framework_license/LICENSE.txt).
