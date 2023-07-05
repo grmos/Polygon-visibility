@@ -1,7 +1,7 @@
 # Polygon-visibility
 
 ## Enviroment
-- VIsual Studio2019
+- VIsual Studio 2019
 - cmake 3.15.4
 - [VVR Framework](https://github.com/vvrgroup/VVR-Framework)
   
