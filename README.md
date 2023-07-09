@@ -13,13 +13,6 @@ The Polygon Visibility project is a C++ code that allows users to interactively 
 - CMake 3.15.4
 - [VVR Framework](https://github.com/vvrgroup/VVR-Framework)
 
-## Building and Running the Code
-1. **CMake**: Explain how to use CMake to generate the build files for your code. Include any specific CMake commands or options that need to be used.
-
-2. **Building**: Provide instructions on how to build the code using the generated build files. Include any platform-specific considerations if applicable.
-
-3. **Running**: Guide users on how to run the compiled code, including any command-line arguments or specific instructions for executing the program.
-
 ## License
 
 The framework used in this project is licensed under the terms of the [MIT License](./framework_license/LICENSE.txt).
