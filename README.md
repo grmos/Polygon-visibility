@@ -3,9 +3,9 @@
 ## Overview
 The Polygon Visibility project is a C++ code that allows users to interactively explore and visualize the visibility of a randomly generated polygon from different points. This program provides a graphical user interface where users can control the display of visibility polygons and the non-empty core of the polygon.
 
-## Functionality
+## Usage
 1. Press the mouse at different spots to visualize the visibility polygons.
-2. Press the "2" key to display the non-empty core of the polygon.
+2. Press the "2" key to display the non-empty core of the polygon. The non-empty core is the space within the polygon where the user can see the entire polygon.
 3. Press the "3" key to generate a new random polygon.
    
 ## Requirements
