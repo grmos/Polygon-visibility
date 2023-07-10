@@ -3,6 +3,11 @@
 ## Overview
 The Polygon Visibility project is a C++ code that allows users to interactively explore and visualize the visibility of a randomly generated polygon from different points. This program provides a graphical user interface where users can control the display of visibility polygons and the non-empty core of the polygon.
 
+## Requirements
+- Visual Studio 2019
+- CMake 3.15.4
+- [VVR Framework](https://github.com/vvrgroup/VVR-Framework)
+  
 ## Usage
 1. Press the mouse at different spots to visualize the visibility polygons.
 2. Press the "2" key to display the non-empty core of the polygon. The non-empty core is the space within the polygon where the user can see the entire polygon.
@@ -10,11 +15,9 @@ The Polygon Visibility project is a C++ code that allows users to interactively 
 
 ## Results
 ![Demo](./images/1.png)
-
-## Requirements
-- Visual Studio 2019
-- CMake 3.15.4
-- [VVR Framework](https://github.com/vvrgroup/VVR-Framework)
+- The first image shows a randomly generated polygon.
+- From a random viewpoint, the second image displays the polygon as seen from that specific spot.
+- The third image illustrates the non-empty core of the polygon along with the visible polygon as seen from a viewpoint within the non-empty core.
 
 ## License
 
