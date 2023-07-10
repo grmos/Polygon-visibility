@@ -10,8 +10,6 @@ The Polygon Visibility project is a C++ code that allows users to interactively 
 
 ## Results
 ![Demo](./images/1.png)
-![Demo](./images/2.png)
-![Demo](./images/3.png)
 
 ## Requirements
 - Visual Studio 2019
