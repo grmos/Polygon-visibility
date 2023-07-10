@@ -9,9 +9,9 @@ The Polygon Visibility project is a C++ code that allows users to interactively 
 3. Press the "3" key to generate a new random polygon.
 
 ## Results
-![Demo](images/1.jpg)
-![Demo](images/2.jpg)
-![Demo](images/3.jpg)
+![Demo](./images/1.png)
+![Demo](./images/2.png)
+![Demo](./images/3.png)
 
 ## Requirements
 - Visual Studio 2019
