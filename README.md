@@ -7,7 +7,12 @@ The Polygon Visibility project is a C++ code that allows users to interactively 
 1. Press the mouse at different spots to visualize the visibility polygons.
 2. Press the "2" key to display the non-empty core of the polygon. The non-empty core is the space within the polygon where the user can see the entire polygon.
 3. Press the "3" key to generate a new random polygon.
-   
+
+## Results
+![Demo](images/1.jpg)
+![Demo](images/2.jpg)
+![Demo](images/3.jpg)
+
 ## Requirements
 - Visual Studio 2019
 - CMake 3.15.4
